@@ -15,4 +15,4 @@
 ## Run the React client only
 ### `npm run client`
 
-### Server runs on http://localhost:5000 and client on http://localhost:3000
+### client on http://localhost:3000
